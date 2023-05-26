@@ -10,10 +10,12 @@ To predict whether Alphabet Soup funding applicants will be successful, you will
 
 This challenge consists of three technical deliverables. You will do the following:
 
-• Preprocess data for a neural network model.
+* Preprocess data for a neural network model.
 
-• Use the model-fit-predict pattern to compile and evaluate a binary classification model.
+* Use the model-fit-predict pattern to compile and evaluate a binary classification model.
 
-• Optimise the model.
+* Optimise the model.
 
 ## Results
+
+![image](https://github.com/AthuraThava/module_13_challenge/assets/125240804/f120a5c6-d576-4b45-a49b-a5f27a505d65)
